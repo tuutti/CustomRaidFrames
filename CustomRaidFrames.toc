@@ -1,0 +1,4 @@
+## Interface: 70300
+## Title: CustomRaidFrames
+## Notes: Custom raidframe configuration
+CustomRaidFrames.lua
